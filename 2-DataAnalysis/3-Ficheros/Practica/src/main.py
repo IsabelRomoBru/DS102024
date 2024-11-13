@@ -18,3 +18,5 @@ print(texto_procesado)
 
 
 # ¿y si no fuese src sino 3-Ficheros?
+
+#quiere que sea como una libreria poniendo solo mi utilidad
