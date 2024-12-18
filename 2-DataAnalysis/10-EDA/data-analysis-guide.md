@@ -70,7 +70,7 @@
 - Identificación de outliers
 
 ### 4.2 Análisis de Relaciones
-- Correlaciones entre variables
+- Correlaciones entre vari-<ables
 - Análisis de dependencias
 - Patrones temporales
 - Segmentaciones relevantes
