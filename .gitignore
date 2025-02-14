@@ -168,3 +168,5 @@ Prof/
 *.DS_Store
 .DS_Store/
 Dataset/
+3-MachineLearning/10-Proyecto_ML/Fake.csv
+3-MachineLearning/10-Proyecto_ML/True.csv
