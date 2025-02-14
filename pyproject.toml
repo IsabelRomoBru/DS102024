@@ -13,7 +13,7 @@ pandas = "^2.2.2"
 sqlalchemy = "^2.0.34"
 pydantic = "^2.9.1"
 scikit-learn = "^1.5.2"
-numpy = "^2.1.1"
+numpy = "^1.5.1"
 matplotlib = "^3.9.2"
 statsmodels = "^0.14.2"
 seaborn = "^0.13.2"
@@ -31,7 +31,6 @@ liac-arff = "^2.5.0"
 openpyxl = "^3.1.5"
 pyarrow = "^18.0.0"
 yfinance = "^0.2.50"
-<<<<<<< HEAD
 folium = "^0.19.2"
 geopandas = "^1.0.1"
 branca = "^0.8.0"
@@ -42,11 +41,9 @@ missingno = "^0.5.2"
 datasciencetree = "^0.1.0"
 psycopg2-binary = "^2.9.10"
 plot-confusion-matrix = "^0.0.2"
-=======
-orjson = "^3.10.14"
->>>>>>> upstream/main
 scikit-optimize = "^0.10.2"
 optuna = "^4.2.0"
+
 
 
 [build-system]
