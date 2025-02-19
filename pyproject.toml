@@ -44,10 +44,6 @@ plot-confusion-matrix = "^0.0.2"
 scikit-optimize = "^0.10.2"
 optuna = "^4.2.0"
 skforecast = "^0.14.0"
-<<<<<<< HEAD
-
-=======
->>>>>>> upstream/main
 
 
 [build-system]
