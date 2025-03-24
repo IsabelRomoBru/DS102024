@@ -174,7 +174,6 @@ housing_tuning/
 3-MachineLearning/7-DeepLearning/2-CNN/data/
 *.npz
 *.h5
-<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -351,6 +350,3 @@ housing_tuning/
 3-MachineLearning/7-DeepLearning/2-CNN/data/
 *.jpg
 *.npz
-=======
-Presentaciones/
->>>>>>> upstream/main
