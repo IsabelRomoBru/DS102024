@@ -350,3 +350,4 @@ housing_tuning/
 3-MachineLearning/7-DeepLearning/2-CNN/data/
 *.jpg
 *.npz
+day.csv
