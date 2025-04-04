@@ -50,6 +50,7 @@ pyspellchecker = "^0.8.2"
 tensorflow-datasets = "^4.9.8"
 keras-cv = "^0.9.0"
 pytest-cov = "^6.1.0"
+pytest = "^8.3.5"
 
 
 [build-system]
