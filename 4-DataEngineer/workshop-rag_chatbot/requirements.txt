@@ -60,7 +60,6 @@ mypy-extensions==1.0.0
 narwhals==1.33.0
 nest-asyncio==1.6.0
 networkx==3.4.2
-
 orjson==3.10.16
 ormsgpack==1.9.1
 packaging==24.2
