@@ -352,3 +352,5 @@ housing_tuning/
 *.jpg
 *.npz
 day.csv
+4-DataEngineer/PolarsPySpark/data/processed/yellow_tripdata.parquet
+4-DataEngineer/PolarsPySpark/etl_example/output/nyc_taxi.db

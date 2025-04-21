@@ -9,7 +9,7 @@ app = FastAPI()
 
 @app.get("/")
 async def inicio():
-    return {"mensaje":"Hola!!"}
+    return {"mensaje":"Hola Nuria!!"}
 
 @app.get("/obtener-iris")
 def obtener_iris():

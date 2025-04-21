@@ -1,6 +1,8 @@
 from utils import ParquetMerger
 from pathlib import Path
 from configparser import ConfigParser
+import polars as pl
+
 
 # Leer rutas desde config.ini
 config = ConfigParser()
